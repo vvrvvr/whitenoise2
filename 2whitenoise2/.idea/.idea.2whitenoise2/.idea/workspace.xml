@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac71866c-b332-49c8-a33e-2f631b89de83" name="Changes" comment="" />
+    <list default="true" id="ac71866c-b332-49c8-a33e-2f631b89de83" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.2whitenoise2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2whitenoise2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DefaultVolumeProfile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/DefaultVolumeProfile.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/CameraStacking/3D Skybox/3DSkyboxPipeline.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/CameraStacking/3D Skybox/3DSkyboxPipeline.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/Decals/BlobShadow/BlobShadowPipeline.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/Decals/BlobShadow/BlobShadowPipeline.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/Decals/PaintSplat/PaintSplatPipeline.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/Decals/PaintSplat/PaintSplatPipeline.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/Decals/ProxyLighting/ProxyLightingPipeline.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/Decals/ProxyLighting/ProxyLightingPipeline.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/Lighting/Reflection Probes/Reflection_Pipeline.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/Lighting/Reflection Probes/Reflection_Pipeline.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/RendererFeatures/AmbientOcclusion/SSAO_Pipeline.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/RendererFeatures/AmbientOcclusion/SSAO_Pipeline.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/RendererFeatures/BlitToRTHandle/BlitToRTHandlePipelineAsset.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/RendererFeatures/BlitToRTHandle/BlitToRTHandlePipelineAsset.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/RendererFeatures/DepthBlit/DepthBlitPipelineAsset.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/RendererFeatures/DepthBlit/DepthBlitPipelineAsset.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/RendererFeatures/DistortTunnel/DistortTunnelPipelineAsset.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/RendererFeatures/DistortTunnel/DistortTunnelPipelineAsset.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/RendererFeatures/GlitchEffect/Glitch_Pipeline.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/RendererFeatures/GlitchEffect/Glitch_Pipeline.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/RendererFeatures/KeepFrame/KeepFramePipeline.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/RendererFeatures/KeepFrame/KeepFramePipeline.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/RendererFeatures/OcclusionEffect/OcclusionEffectPipeline.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/RendererFeatures/OcclusionEffect/OcclusionEffectPipeline.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/RendererFeatures/TrailEffect/TrailEffect_Pipeline.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/RendererFeatures/TrailEffect/TrailEffect_Pipeline.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/Mobile/Mobile_High.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/Mobile/Mobile_High.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/Mobile/Mobile_Low.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/Mobile/Mobile_Low.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/PC/PC_Low.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/PC/PC_Low.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2023.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2023.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Search.settings" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Search.settings" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,10 +48,8 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock://C:/WORK/Unity/projects/repos/WHITE NOISE 2/2whitenoise2/Assets/Samples/Universal RP/14.0.11/URP Package Samples/CameraStacking/3D Skybox/3DSkyboxPipeline.asset" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/WORK/Unity/projects/repos/WHITE NOISE 2/2whitenoise2/Assets/Scenes/Terminal/Sandbox.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/WORK/Unity/projects/repos/WHITE NOISE 2/2whitenoise2/UserSettings/EditorUserSettings.asset" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/WORK/Unity/projects/repos/WHITE NOISE 2/2whitenoise2/UserSettings/EditorUserSettings.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/WORK/Unity/projects/repos/WHITE NOISE 2/2whitenoise2/Assets/DefaultVolumeProfile.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@16.0.6/Runtime/UniversalRenderPipeline.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="false" />
   <component name="ProjectColorInfo">{
@@ -123,7 +143,24 @@
       <option name="project" value="LOCAL" />
       <updated>1745752401744</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac71866c-b332-49c8-a33e-2f631b89de83" name="Changes" comment="" />
+      <created>1745760043047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745760043047</updated>
+      <workItem from="1745760043606" duration="1260000" />
+      <workItem from="1745761492354" duration="277000" />
+    </task>
+    <task id="LOCAL-00004" summary="поднял версию проекта до 2023, обновились материалы">
+      <option name="closed" value="true" />
+      <created>1745760131712</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745760131712</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,9 +186,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="urp сэмплы" />
     <MESSAGE value="шейдер стекла" />
     <MESSAGE value="шейдер screen space refraction" />
-    <option name="LAST_COMMIT_MESSAGE" value="шейдер screen space refraction" />
+    <MESSAGE value="поднял версию проекта до 2023, обновились материалы" />
+    <option name="LAST_COMMIT_MESSAGE" value="поднял версию проекта до 2023, обновились материалы" />
   </component>
 </project>
