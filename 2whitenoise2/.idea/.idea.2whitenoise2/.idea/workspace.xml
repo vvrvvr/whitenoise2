@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ac71866c-b332-49c8-a33e-2f631b89de83" name="Changes" comment="urp сэмплы">
       <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/CameraStacking/3D Skybox/3DSkyboxPipeline.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/CameraStacking/3D Skybox/3DSkyboxPipeline.asset" afterDir="false" />
