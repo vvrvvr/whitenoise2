@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac71866c-b332-49c8-a33e-2f631b89de83" name="Changes" comment="urp сэмплы">
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/CameraStacking/3D Skybox/3DSkyboxPipeline.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/CameraStacking/3D Skybox/3DSkyboxPipeline.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/Decals/BlobShadow/BlobShadowPipeline.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/Decals/BlobShadow/BlobShadowPipeline.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/Decals/PaintSplat/PaintSplatPipeline.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/Decals/PaintSplat/PaintSplatPipeline.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/Decals/ProxyLighting/ProxyLightingPipeline.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/Decals/ProxyLighting/ProxyLightingPipeline.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/Lighting/Reflection Probes/Reflection_Pipeline.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/Lighting/Reflection Probes/Reflection_Pipeline.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/RendererFeatures/AmbientOcclusion/SSAO_Pipeline.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/RendererFeatures/AmbientOcclusion/SSAO_Pipeline.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/RendererFeatures/GlitchEffect/Glitch_Pipeline.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/RendererFeatures/GlitchEffect/Glitch_Pipeline.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/RendererFeatures/KeepFrame/KeepFramePipeline.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/RendererFeatures/KeepFrame/KeepFramePipeline.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/RendererFeatures/OcclusionEffect/OcclusionEffectPipeline.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/RendererFeatures/OcclusionEffect/OcclusionEffectPipeline.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/RendererFeatures/TrailEffect/TrailEffect_Pipeline.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/RendererFeatures/TrailEffect/TrailEffect_Pipeline.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/SharedAssets/Settings/SamplesPipelineAsset.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Universal RP/14.0.11/URP Package Samples/SharedAssets/Settings/SamplesPipelineAsset.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/WORK/Unity/projects/repos/WHITE NOISE 2/2whitenoise2/UserSettings/EditorUserSettings.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/WORK/Unity/projects/repos/WHITE NOISE 2/2whitenoise2/UserSettings/EditorUserSettings.asset" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="false" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="urp сэмплы">
+      <option name="closed" value="true" />
+      <created>1745751474939</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745751474939</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="false" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="urp сэмплы" />
+    <option name="LAST_COMMIT_MESSAGE" value="urp сэмплы" />
+  </component>
+</project>
