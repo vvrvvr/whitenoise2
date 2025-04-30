@@ -71,9 +71,9 @@ Material:
     m_Ints: []
     m_Floats:
     - _AlbedoOpacity: 0.67
-    - _Chromatic: 0.004
+    - _Chromatic: 0.005
     - _EmissiveStrenght: 1
-    - _IOR: 1.1
+    - _IOR: 1.67
     - _NormalStrenght: 2
     - _QueueControl: 0
     - _QueueOffset: 0

@@ -24,6 +24,7 @@ public class DatamoshController : MonoBehaviour
 		if (Input.GetKeyDown(KeyCode.Space))
 		{
 			isDatamoshEnabled = !isDatamoshEnabled;
+			Debug.Log("switch");
 		}
 		
 	}
